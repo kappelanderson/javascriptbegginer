@@ -1,0 +1,16 @@
+- Objetos
+    
+    let info = {name: "Anderson", idade: 18, peso: 70}
+
+    - Encontrar Objetos
+        info.name
+        info["name"]
+
+    - Criar novas propriedades
+
+        info.altura = 170
+        info["gordura"] = 15%
+    
+    - Objetos aceitam funções como elementos de propriedades
+
+    
