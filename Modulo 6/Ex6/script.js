@@ -1,0 +1,5 @@
+alert("Calcule seu IMC, com base na sua altura e peso")
+let altura = prompt("Qual a sua altura?")
+let peso = prompt("Qual o seu peso?")
+let imc = peso/(altura * altura)
+alert(`Seu IMC é ${imc}`)
